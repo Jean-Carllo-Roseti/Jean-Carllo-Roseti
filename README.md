@@ -46,9 +46,10 @@
 ## Contato:
 
 <div> 
-<a href = "https://meu-portifolio-beta.vercel.app/"> <img src="https://img.shields.io/badge/Visite%20meu%20Portf%C3%B3lio-white?style=for-the-badge&logo=google-chrome" target="_blank"></a>
-<a href = "mailto:jcmar.dev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/jean-carllo-roseti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href = "https://meu-portifolio-beta.vercel.app/"> <img src="https://img.shields.io/badge/Visite%20meu%20Portf%C3%B3lio-white?style=for-the-badge&logo=google-chrome" alt="visite meu portfólio" target="_blank"></a>
+<a href = "mailto:jcmar.dev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
+alt="visite meu email: jcmar.dev@gmail.com"  target="_blank"></a>
+<a href="https://www.linkedin.com/in/jean-carllo-roseti/" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="visite meu LinkedIn: https://www.linkedin.com/in/jean-carllo-roseti/"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
 
 &nbsp;
